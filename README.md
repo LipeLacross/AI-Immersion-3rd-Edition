@@ -37,14 +37,12 @@ Este projeto demonstra um fluxo automatizado de criação de posts para Instagra
 
 * **Guia de Mergulho da Imersão IA:** [Acesse o Guia de Mergulho](https://grupoalura.notion.site/Imers-o-IA-Guia-de-Mergulho-1d2379bdd09b803982a5ee1abd89e0cb)
 
-## 🎯 Recursos da Imersão IA – Aula 05
+## 🎯 Recursos da Imersão IA
 
 * **Google AI Studio:** [Acesse o Google AI Studio](https://ai.google.com/studio)
 * **Obter API Key no Google AI Studio:** [Pegar API Key](https://ai.google.com/studio)
 * **Google Colab:** [Acesse o Colab](https://colab.research.google.com)
 * **Google Gemini:** [Experimente o Gemini](https://gemini.google.com)
-* **Código base inicial da Aula 05:** \[Imersão\_IA\_Alura\_+\_Google\_Gemini\_Aula\_05\_Base.ipynb]
-* **Código final da Aula 05:** \[Imersão\_IA\_Alura\_+*Google\_Gemini\_Aula\_05\_Agentes*(Final).ipynb]
 
 ## 🎓 Instrutores
 
